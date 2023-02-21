@@ -4,7 +4,7 @@
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<p>https://omath3uslima.github.io/nlw-10-copa/</p>
+<p align="center">https://omath3uslima.github.io/nlw-10-copa/</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
